@@ -4,7 +4,7 @@ runs:
 
 inputs:
   github_user_name: Rian-Porfirio
-    description: "Rian-Porfirio"
+    description: "snake.yml"
     required: true
   outputs:
     required: false
