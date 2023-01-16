@@ -1,7 +1,7 @@
 ### Olá! Me chamo Rian Porfírio 🤓
 
 - 🔭 Procuro trabalhar com front-end
-- 🌱 Constante aprimoramento em Html | Css | JavaScript | React |
+- 🌱 Constante aprimoramento em Html | Css | JavaScript | 
 
 <div align="center">
 
