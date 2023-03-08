@@ -21,5 +21,7 @@ a<img height="180em" widht="50px" src="https://github-readme-stats.vercel.app/ap
 <div>
 <a href="https://www.instagram.com/rian_porfirio/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="www.linkedin.com/in/rian-porfírio">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
