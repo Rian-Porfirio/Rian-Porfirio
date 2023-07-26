@@ -1,7 +1,6 @@
 ### Olá! Me chamo Rian Porfírio 🤓
 
-- 🔭 Procuro trabalhar com front-end
-- 🌱 Constante aprimoramento em Html | Css | JavaScript | 
+- 🌱 Constante aprimoramento 
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-Porfirio&show_icons=true&theme=white_all_commits=true&count_private=true"/>
