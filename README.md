@@ -10,7 +10,7 @@ a<img height="180em" widht="50px" src="https://github-readme-stats.vercel.app/ap
 </div>
 
 <p align="center">Visitantes:</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/sucloudflare/count.svg"/></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/rian-porfirio/count.svg"/></p>
 
 
 <div style="display: inline_block">
