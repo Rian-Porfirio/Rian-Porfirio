@@ -9,10 +9,6 @@
 a<img height="180em" widht="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Porfirio&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
 
-<p align="center">Visitantes:</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/rian-porfirio/count.svg"/></p>
-
-
 <div style="display: inline_block">
   <img align="center" alt="Rian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!--<img align="center" alt="Rian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
