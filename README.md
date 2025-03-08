@@ -14,6 +14,7 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  </div>
+ <br/>
 <h3>Tecnologias com maior domínio</h3>
 <hr>
   <div style="display: flex;">
