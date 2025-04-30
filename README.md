@@ -42,6 +42,19 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div>
 
+ <h3>Repositórios em destaque</h3>
+ <div>
+   <a href="https://github.com/Rian-Porfirio/desafio-itau-junior">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Porfirio&repo=desafio-itau-junior&theme=tokyonight">
+   </a>
+   <a href="https://github.com/Rian-Porfirio/UpwardBull">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Porfirio&repo=UpwardBull&theme=tokyonight">
+   </a>
+   <a href="https://github.com/Rian-Porfirio/Feedback-app">
+      <img height="95px" src="https://github-readme-stats.vercel.app/api/pin/?username=Rian-Porfirio&repo=Feedback-app&theme=tokyonight">
+   </a>
+</div>
+
 <h3>Contribuições em repositórios</h3>
   <div>
    <a href="https://github.com/martial-god/Benny-Scraper">
